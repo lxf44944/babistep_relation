@@ -26,6 +26,7 @@ scrapy_shop_countdown上传了整个项目的文件，只需要在IDE直接运�
 - browse_spider.py
 - specials_spider.py
 - recipes_spider.py
+
 三个文件即可运行爬虫，不需要在terminal使用scrapy的命令来运行爬虫
      
      
